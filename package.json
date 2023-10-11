@@ -1,0 +1,11 @@
+{
+  "name": "repro-initializer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devversion/api-extractor-reproduction-initializers.git",
+  "author": "Paul Gschwendtner <paulgschwendtner@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@microsoft/api-extractor": "^7.38.0"
+  }
+}
